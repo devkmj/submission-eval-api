@@ -81,8 +81,8 @@ $ docker-compose run --rm e2e
 ---
 ### 🗄 DB 문서
 ERD
+![ERD](./docs/erd.png)
 
-(여기에 ERD 이미지 또는 Mermaid 다이어그램 추가)
 
 테이블 정의
 •	Prisma schema.prisma 참조
